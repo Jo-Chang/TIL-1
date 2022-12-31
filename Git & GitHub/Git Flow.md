@@ -35,8 +35,8 @@
 6. Pull Request 생성
 7. 코드 Review
 8. Merge pull request
-
-이후 과정은 Master branch로 이동 후 계속 작업
+   
+   이후 과정은 Master branch로 이동 후 계속 작업
 
 #### **Fork & Pull Model**
 
@@ -45,5 +45,5 @@
 
 1. Fork
 2. Clone
-
-이후 작업은 Shared Repository Model과 동일
+   
+   이후 작업은 Shared Repository Model과 동일
