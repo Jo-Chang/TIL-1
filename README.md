@@ -29,3 +29,4 @@ ___
 ### **Algorithm**
   >- [스택과 큐](./Algorithm/Stack%20%26%20Queue.md)
   >- [우선순위 큐](./Algorithm/Priority%20Queue.md)
+  >- [트리 자료구조](./Algorithm/Tree.md)
