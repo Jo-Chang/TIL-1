@@ -117,7 +117,9 @@ ___
     - 길이제한 X, 대소문자 구별
     - 예약어는 사용불가
     
-        `Flase, None, True, and, as, assert, async, await, break, class, continue, def, del, elif, else, except, finally, for, from, global, if, import, in, is, lambda, nonlocal, not, or, pass, raise, return, try, while, with, yield`
+        ```
+        Flase, None, True, and, as, assert, async, await, break, class, continue, def, del, elif, else, except, finally, for, from, global, if, import, in, is, lambda, nonlocal, not, or, pass, raise, return, try, while, with, yield
+        ```
     
     - 내장함수나 모듈 등의 이름으로도 만들면 안됨
         - 기존 이름에 다른 값을 할당하게 되므로 더 이상 동작하지 않음
