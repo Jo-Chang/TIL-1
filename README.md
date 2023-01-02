@@ -1,20 +1,20 @@
 # TODAY I LEARNED 📚
 
 ## Index📑
-- [Markdown](#markdown🌟)
-- [CLI](#cli🌟)
-- [Git/GitHub](#gitgithub🌟)
+- [Markdown](#markdown)
+- [CLI](#cli)
+- [Git/GitHub](#gitgithub)
 - [Algorithm](#algorithm)
 
 ___
 
-### **Markdown🌟**
+### **Markdown**
   >- [마크다운 기반 문서작성](./MarkDown/MarkDown.md)
 
-### **CLI🌟**
+### **CLI**
   >- [CLI(Command Line Interface)](./CLI/CLI.md)
 
-### **Git/GitHub🌟**
+### **Git/GitHub**
   >- [Git 기초 흐름](./Git%20%26%20GitHub/Git%20%EA%B8%B0%EC%B4%88%20%ED%9D%90%EB%A6%84.md)
   >- [원격저장소 활용](./Git%20%26%20GitHub/%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%ED%99%9C%EC%9A%A9.md)
   >- [Push Conflict & gitignore](./Git%20%26%20GitHub/Push%20Conflict%20%26%20gitignore.md)
