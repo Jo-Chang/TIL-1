@@ -118,7 +118,9 @@ ___
     - 예약어는 사용불가
     
         ```
-        Flase, None, True, and, as, assert, async, await, break, class, continue, def, del, elif, else, except, finally, for, from, global, if, import, in, is, lambda, nonlocal, not, or, pass, raise, return, try, while, with, yield
+        Flase, None, True, and, as, assert, async, await, break, class, continue,
+        def, del, elif, else, except, finally, for, from, global, if, import, in, 
+        is, lambda, nonlocal, not, or, pass, raise, return, try, while, with, yield
         ```
     
     - 내장함수나 모듈 등의 이름으로도 만들면 안됨
