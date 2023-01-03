@@ -25,6 +25,7 @@ ___
 
 ### **Python**
   >- [Python 기초](./Python/Python%20%EA%B8%B0%EC%B4%88.md)
+  >- [제어문](./Python/Python%20%EA%B8%B0%EC%B4%88.md)
 
 ### **Algorithm**
   >- [스택과 큐](./Algorithm/Stack%20%26%20Queue.md)
